@@ -3,3 +3,6 @@
 /.venv
 /510.code-workspace
 /Repo
+/Milestone2/.milestone
+Milestone2/.DS_Store
+Milestone2/__pycache__/app.cpython-311.pyc

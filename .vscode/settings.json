@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/4e2269b7-ea4f-4e51-b49c-6118d759cb96/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/TECHIN510-DavyGuo",
+    "appService.deploySubpath": "Milestone2"
+}
